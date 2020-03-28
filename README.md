@@ -1,7 +1,7 @@
 # Welcome to Web Winter Project
 
-# Task 1
-## Part-1: Recreate the Given Page.
+## Task 1
+### Part-1: Recreate the Given Page.
 
 For this task, you have to recreate [the given Web Page](https://github.com/swadhinroutray/winter-web-resources/blob/master/Task1/HTML.jpg) using HTML and then proceed to styling it with CSS. 
 
@@ -26,7 +26,7 @@ A very important resource that you all should go through:
 ***
 
 
-## Part-2: Styling the Page
+### Part-2: Styling the Page
 
 For this part, we'll be looking into **CSS**. Cascading Style Sheets are used to make web pages attractive. Create a new CSS file, and link it to your HTML. Style the easier components first then move onto the harder ones. Recreate the following [web page](https://github.com/swadhinroutray/winter-web-resources/blob/master/Task1/HTMLwithCSS.jpg)
 
@@ -45,7 +45,7 @@ Some resources for the part:
  * [Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
 
-# Task 2
+## Task 2
 
 For this task, you have to recreate [the given Web Page](https://github.com/swadhinroutray/winter-web-resources/tree/master/Task2) using HTML as well as CSS and learn how to use media queries in order to make the given web page mobile compatible.
 
@@ -71,7 +71,7 @@ A very important resource that you all should go through:
 
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
-### Important
+#### Important
 
 - Some concepts to check out during this task:
         - Font Size
@@ -83,7 +83,7 @@ A very important resource that you all should go through:
 * [How To Test Your Website In Different Browsers and Mobile Devices - Google Chrome & Firefox DevTools](https://www.youtube.com/watch?v=vs2TYCMCuL8)
 
 
-# Task-3
+## Task-3
 
  For this task you have to design a [Form](https://github.com/swadhinroutray/winter-web-resources/blob/master/Task3/FormExample.mp4) using HTML, CSS, and Javascript. You have to validate the form and display the input details once the form is submitted.
 
@@ -95,7 +95,7 @@ You’ll be working with these three files:
 * ```style.css``` - Stylesheet
 * ```script.js``` - JavaScript file.
 
-### Guidelines for the Form:
+#### Guidelines for the Form:
 * Elements to be taken as input:
   1. Name
   2. Username (Should contain a digit)
@@ -109,14 +109,14 @@ You’ll be working with these three files:
 * Try Making it responsive
 * Make it look pretty.
 
-### Resources for this part:
+#### Resources for this part:
 * [JS fundamentals](http://jsforcats.com/) This is a nice and fun intro to JavaScript and programming in general
 * [DOM Manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) The ability of javascript to manipulate DOM enhances user experience.
 * [Scope](https://www.w3schools.com/js/js_scope.asp)
 * [The **this**  keyword](https://www.w3schools.com/js/js_this.asp)
 * [ES6](https://www.w3schools.com/js/js_es6.asp)
 
-### Video
+#### Video
 
 [This](https://www.youtube.com/watch?v=hdI2bqOjy3c) video covers most of the basics of js including DOM manipulation
 
@@ -127,7 +127,7 @@ You’ll be working with these three files:
 [w3schools](
 https://www.w3schools.com/js/default.asp)
 
-### Note:
+#### Note:
 * One of the best JavaScript compilers is Chrome's V8. You can access this by opening Chrome Dev Tools (```Ctrl+Shift+I```) and going to the console.
 * Don't shy away from googling stuff, when you get stuck or forgot something
 
