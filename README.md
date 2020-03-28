@@ -2,8 +2,8 @@
 
 ## Task 1
 ### Part-1: Recreate the Given Page.
-
-Hey guys, welcome to **Task - 1**. For this task, you have to _recreate_ the given Web Page using HTML and then proceed to styling it with CSS. 
+ 
+Welcome to **Task - 1**. For this task, you have to _recreate_ the given Web Page using HTML and then proceed to styling it with CSS. 
 
 **HTML** stands for **Hyper Text Markup Language**. It's essentially the language in which most websites are written. 
 
@@ -34,7 +34,7 @@ Finish this part, **only then proceed** to the next part.
 
 #### IMPORTANT
 
-Guys, we want you all to update whatever you've learnt on the **README.md** file so that your mentors can keep track of your progress. You can also update resources you've found online that helped you a lot or issues that you faced while doing the tasks. This will help you in the long run as you won't tend to repeat your mistakes.
+In order to keep a track of what you've learnt, document your work on the **README.md** file so that you can keep track of your progress. You can also update resources you've found online that helped you a lot or issues that you faced while doing the tasks. This will help you in the long run as you won't tend to repeat your mistakes.
 
 **Here's a great guide to learn Markdown:- [https://medium.com/echohub/write-simple-and-effective-markdown-tips-8e01fdddd70](https://medium.com/echohub/write-simple-and-effective-markdown-tips-8e01fdddd70)**
 
@@ -63,8 +63,7 @@ Some resources for the part:
 
 ## Task 2
 
-
-Hey guys, we will now start off with **Task - 2**. We recommend that you start this task only **after you finish task 1**.
+We will now start off with **Task - 2**. We recommend that you start this task only **after you finish task 1**.
 
 For this task, you have to _recreate_ the given Web Page using HTML as well as CSS and learn how to use media queries in order to make the given webpage mobile compatible.
 
