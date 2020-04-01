@@ -38,9 +38,9 @@ Some resources for the part:
 **This is quite comprehensive:- [Basic introduction to CSS](https://medium.com/the-andela-way/basic-introduction-to-css-81f6041b92d0)**
 
  * [Intro to CSS](https://www.w3schools.com/css/css_intro.asp)
-* [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+ * [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
  * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-* [Inline Blocks](https://www.w3schools.com/css/css_inline-block.asp)
+ * [Inline Blocks](https://www.w3schools.com/css/css_inline-block.asp)
  * [Text Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
  * [Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
@@ -85,7 +85,7 @@ A very important resource that you all should go through:
 
 ## Task-3
 
- For this task you have to design a [Form](https://github.com/swadhinroutray/winter-web-resources/blob/master/Task3/FormExample.mp4) using HTML, CSS, and Javascript. You have to validate the form and display the input details once the form is submitted.
+For this task you have to design a [Form](https://github.com/swadhinroutray/winter-web-resources/blob/master/Task3/FormExample.mp4) using HTML, CSS, and Javascript. You have to validate the form and display the input details once the form is submitted.
 
 JavaScript is a very powerful client-side scripting language. It is used mainly for enhancing the interaction of a user with the webpage.
 For this part of the task,
@@ -110,7 +110,7 @@ You’ll be working with these three files:
 * Make it look pretty.
 
 #### Resources for this part:
-* [JS fundamentals](http://jsforcats.com/) This is a nice and fun intro to JavaScript and programming in general
+* [JS Fundamentals](https://javascript.info/first-steps)
 * [DOM Manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) The ability of javascript to manipulate DOM enhances user experience.
 * [Scope](https://www.w3schools.com/js/js_scope.asp)
 * [The **this**  keyword](https://www.w3schools.com/js/js_this.asp)
