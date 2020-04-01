@@ -14,7 +14,7 @@ Resources for this part:
 * [HTML](https://www.w3schools.com/html/)
 * [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 * [HTML Quotation Elements](https://www.w3schools.com/html/html_quotation_elements.asp)
-* [HTML Images.asp](https://www.w3schools.com/html/html_images.asp)
+* [HTML Images](https://www.w3schools.com/html/html_images.asp)
 * [Blocks](https://www.w3schools.com/html/html_blocks.asp)
 
 A very important resource that you all should go through: 
