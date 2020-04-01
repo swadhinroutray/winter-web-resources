@@ -1,4 +1,4 @@
-# Welcome to Web Winter Project
+# Welcome to Web BootCamp
 
 ## Task 1
 ### Part-1: Recreate the Given Page.
@@ -35,7 +35,7 @@ Get familiar with [Google Fonts](https://fonts.google.com/), look into image sty
 
 Some resources for the part: 
 
-**This is quite comprehensive:- [https://medium.com/the-andela-way/basic-introduction-to-css-81f6041b92d0](https://medium.com/the-andela-way/basic-introduction-to-css-81f6041b92d0)**
+**This is quite comprehensive:- [Basic introduction to CSS](https://medium.com/the-andela-way/basic-introduction-to-css-81f6041b92d0)**
 
  * [Intro to CSS](https://www.w3schools.com/css/css_intro.asp)
 * [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
@@ -62,7 +62,7 @@ Resources for this part:
 * [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp)
 * [Flex Box Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-- Recommended for Flex Box **[https://flexboxfroggy.com](https://flexboxfroggy.com)**
+- Recommended for Flex Box **[Flexbox Froggy](https://flexboxfroggy.com)**
 
 * [CSS Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 * [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
@@ -130,8 +130,3 @@ https://www.w3schools.com/js/default.asp)
 #### Note:
 * One of the best JavaScript compilers is Chrome's V8. You can access this by opening Chrome Dev Tools (```Ctrl+Shift+I```) and going to the console.
 * Don't shy away from googling stuff, when you get stuck or forgot something
-
-
-
-
-
